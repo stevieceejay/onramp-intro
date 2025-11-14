@@ -53,11 +53,15 @@ img {
 }
 
 ul {
-    list-style-type: none;
+    list-style-type: disc;
     padding-left: 40px;
+    text-align: left;
+    display: inline-block;
 }
 
 ol {
     list-style-type: decimal;
     padding-left: 40px;
+    text-align: left;
+    display: inline-block;
 }
